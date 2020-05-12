@@ -1,0 +1,7 @@
+{
+    "train_data_path": "data/train.csv",
+    "test_data_path": "data/test.csv",
+    "model_path": "model/model.pickle",
+    "prediction_path": "output/output.csv",
+    "temp_path": "output/temp.csv"
+}
